@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 ### Added Pages
 
 Home => [http://localhost:3000](http://localhost:3000/)
-Login => [http://localhost:3000](http://localhost:3000/Login)
-Admin => [http://localhost:3000](http://localhost:3000/Admin)
-Add => [http://localhost:3000](http://localhost:3000/Add)
-Edit => [http://localhost:3000](http://localhost:3000/Edit)
+Login => [http://localhost:3000/Login](http://localhost:3000/Login)
+Admin => [http://localhost:3000/Admin](http://localhost:3000/Admin)
+Add => [http://localhost:3000/Add](http://localhost:3000/Add)
+Edit => [http://localhost:3000/Edit](http://localhost:3000/Edit)
